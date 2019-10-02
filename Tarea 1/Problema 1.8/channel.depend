@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520353014 source:c:\users\diego\desktop\proyecto de mierda\servidor\lcgrand.c
+
+1520389920 source:c:\users\diego\desktop\proyecto de mierda\servidor\server_ste.c
+	<stdio.h>
+	<math.h>
+	"lcgrand.h"
+
+1520353014 c:\users\diego\desktop\proyecto de mierda\servidor\lcgrand.h
+	"lcgrand.h"
+
